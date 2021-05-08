@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B22E-7638
+
+ Directory of C:\Users\HP\Desktop\sample_proj
+
+08-05-2021  18:09    <DIR>          .
+08-05-2021  18:09    <DIR>          ..
+08-05-2021  18:09               160 test1.txt
+               1 File(s)            160 bytes
+               2 Dir(s)  110,125,932,544 bytes free
